@@ -1,0 +1,40 @@
+Sandwiches
+hamburger
+2.5
+12
+Meat on a bun
+Medium
+   
+turkey
+2.75
+4
+Turkey on a bun
+large
+   
+Soups
+chicken soup
+2.25
+4
+Chicken Soup
+medium
+   
+tomato soup
+2.25
+4
+Tomato Soup
+medium
+   
+Salad
+house salad
+3.0
+4
+House Salad
+small
+   
+salad
+caesar salad
+3.0
+5
+Caesar salad
+small
+na
